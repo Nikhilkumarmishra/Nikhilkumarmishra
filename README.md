@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/nikhil-kumar-mishra/)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://www.linkedin.com/in/nikhil-kumar-mishra/)
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarmishra" alt="nikhilkumarmishra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/greatnikhil_kr" target="blank"><img src="https://img.shields.io/twitter/follow/greatnikhil_kr?logo=twitter&style=for-the-badge" alt="greatnikhil_kr" /></a> </p>
+
 
 - 🔭 I’m currently working on **Android App**
 
