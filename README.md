@@ -31,7 +31,7 @@
 <a href="https://www.youtube.com/c/nikhilmishra6281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nikhilmishra6281" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilkumarmish2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilkumarmish2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilkumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilkumarmishra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/letscrackit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/letscrackit/" height="30" width="40" /></a>
+<a href="[https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/letscrackit/](https://www.geeksforgeeks.org/user/nikhilmishrathegreat/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/letscrackit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
